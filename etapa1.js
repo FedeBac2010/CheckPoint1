@@ -4,4 +4,3 @@ const concesionaria= {
     autos: autos
 }
 
-console.log (concesionaria.autos)
