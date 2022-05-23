@@ -22,6 +22,6 @@ const concesionaria= {
 
     }
 
-    console.log (concesionaria.venderAuto('APL123'))
+    
 
 
